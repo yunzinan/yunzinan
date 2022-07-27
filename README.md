@@ -1,16 +1,34 @@
-### Hi there 👋
+![](https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortFlat&accessoriesType=Prescription02&hairColor=Black&facialHairType=Blank&clotheType=Hoodie&clotheColor=Heather&eyeType=Default&eyebrowType=FlatNatural&mouthType=Smile&skinColor=Light)
 
-<!--
-**yunzinan/yunzinan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
 
-Here are some ideas to get you started:
+## 💩 Info
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![yunzinan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunzinan&show_icons=true&theme=tokyonight)
+
+
+![Visitor Count](https://profile-counter.glitch.me/yunzinan/count.svg)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunzinan&layout=compact)](https://github.com/yunzinan/github-readme-stats)
+
+## 🚀 Skills
+
+### 🔭 learned
+
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+### 🤔 know a bit
+
+![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🌱 currently learning
+
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
