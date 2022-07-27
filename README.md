@@ -2,11 +2,11 @@
 
 # Hi there 👋
 
+You are the ![Visitor Count](https://profile-counter.glitch.me/yunzinan/count.svg) visitor here!❤
+
 ## 💩 Info
 
 ![yunzinan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunzinan&show_icons=true&theme=tokyonight)
-
-You are the ![Visitor Count](https://profile-counter.glitch.me/yunzinan/count.svg) visitor here!❤
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunzinan&layout=compact)](https://github.com/yunzinan/github-readme-stats)
 
