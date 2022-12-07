@@ -1,8 +1,7 @@
-<!--![](https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortFlat&accessoriesType=Prescription02&hairColor=Black&facialHairType=Blank&clotheType=Hoodie&clotheColor=Heather&eyeType=Default&eyebrowType=FlatNatural&mouthType=Smile&skinColor=Light)-->
-
-<iframe src="https://giphy.com/embed/xTiIzJSKB4l7xTouE8" width="480" height="208" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/starwars-star-wars-episode-3-xTiIzJSKB4l7xTouE8">via GIPHY</a></p>
-
 # Hi there 👋
+
+![](https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif)
+
 
 You are the ![Visitor Count](https://profile-counter.glitch.me/yunzinan/count.svg) visitor here!❤
 
