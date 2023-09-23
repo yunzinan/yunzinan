@@ -1,34 +1,14 @@
-# Hi there 👋
+# Aloha! 👋
 
 ![](https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif)
 
 
 You are the ![Visitor Count](https://profile-counter.glitch.me/yunzinan/count.svg) visitor here!❤
 
-## 💩 Info
+## About me
 
-![yunzinan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunzinan&show_icons=true&theme=tokyonight)
+I'm currently a 3rd year student of Computer Science at [Nanjing University](https://cs.nju.edu.cn). I've been studying Chemistry and Computer Science for the past two years, after which I changed my major from Chemistry to CS. My research interests include but are not limited to BCI(brain-computer interface), Computational Neuroscience, and Machine Learning. I'm eager to find out how our brain works and establish the connection and interaction between the human brain and the computer.
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunzinan&layout=compact)](https://github.com/yunzinan/github-readme-stats)
-
-## 🚀 Skills
-
-### 🔭 learned
-
-- ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-- ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-- ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-- ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-### 🤔 know a bit
-
-- ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-
-- ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🌱 currently learning
-
-- ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
