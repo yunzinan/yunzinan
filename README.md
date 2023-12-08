@@ -15,4 +15,5 @@ I'm currently a 3rd year student of Computer Science at [Nanjing University](htt
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/yue-yu-deng-yi-jiu?theme=light&font=Ubuntu&ext=heatmap&site=cn)
 
-![contest stats](https://leetcode-badge.haozibi.dev/v1cn/card/contest-ranking/yue-yu-deng-yi-jiu.svg)
+![contest stats](https://leetcode-badge.haozibi.dev/v1cn/card/contest-ranking/yue-yu-deng-yi-jiu.svg?lang=en)
+
