@@ -7,7 +7,7 @@ You are the ![Visitor Count](https://profile-counter.glitch.me/yunzinan/count.sv
 
 ## About me
 
-I'm currently a 4th year student of Computer Science at [Nanjing University](https://cs.nju.edu.cn). I've been studying Chemistry and Computer Science for the past two years, after which I changed my major from Chemistry to CS. My research interests include but are not limited to BCI(brain-computer interface), Computational Neuroscience, and Machine Learning. I'm eager to find out how our brain works and establish the connection and interaction between the human brain and the computer.
+I'm currently a 4th year student of Computer Science at [Nanjing University](https://cs.nju.edu.cn). I've been studying Chemistry and Computer Science for the past two years, after which I changed my major from Chemistry to CS. I used to do Brain-Computer Interface research.
 
 
 
