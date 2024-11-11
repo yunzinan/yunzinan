@@ -7,7 +7,9 @@ You are the ![Visitor Count](https://profile-counter.glitch.me/yunzinan/count.sv
 
 ## About me
 
-I'm currently a 4th year student of Computer Science at [Nanjing University](https://cs.nju.edu.cn). I've been studying Chemistry and Computer Science for the past two years, after which I changed my major from Chemistry to CS. I used to do Brain-Computer Interface research.
+I'm currently a 4th year student of Computer Science at [Nanjing University](https://cs.nju.edu.cn). I've been studying Chemistry and Computer Science for the first two years of my undergraduate life, after which I changed my major from Chemistry to CS. I used to do Brain-Computer Interface research. 
+
+I love to play tennis🎾 in my spare time. I used to play table tennis when I was in high school.
 
 
 
